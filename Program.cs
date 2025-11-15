@@ -6,6 +6,7 @@ namespace Program
     {
         static void Main(string[] args)
         {
+            //declaration
             string user, pass, prodName;
             double qty, price, totalPrice, amt, dscnt, fnlprc;
 
